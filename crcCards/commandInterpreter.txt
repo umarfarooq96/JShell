@@ -1,0 +1,14 @@
+Class name: commandInterpreter
+Parent class (if any):
+
+Subclasses (if any): 
+
+
+Responsibilities:
+
+- Call the correct command based on the valid input given.
+
+
+Collaborators:
+
+- Command

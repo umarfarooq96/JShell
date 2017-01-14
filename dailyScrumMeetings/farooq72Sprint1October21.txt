@@ -1,0 +1,13 @@
+What did I do last time?
+    - Think about multiple software design principles and techniques to better the design of the program.
+	- Come up with different solutions and designs for the program
+	- Optimize and get rid of any flaws in the design
+
+What do I plan to do now?
+    - Put final copy of CRC cards
+	- Finalize design of the program. Ensure that group members understand and are on board with the design.
+	- Start programming and working towards completing product backlog.
+	
+Am I blocked on anything?
+    - Rest of my group members are in Friday lecture and have not been introduced to Interface, abstract methods, etc.
+	

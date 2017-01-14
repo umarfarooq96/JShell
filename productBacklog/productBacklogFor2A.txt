@@ -1,0 +1,40 @@
+As a user I can access and modify the filesystem (using commands) through JShell.
+
+As a user I should be prompted for input by the command line. Pressing enter
+should not have any errors. ETC: 1 day
+
+As a user I can use mkdir to create directories. ETC: 3 days
+
+As a user I can use cd to change directories. ETC: 3 days
+
+As a user I can use ls to print the contents of the current directory. There is 
+an optional argument to ls a specific path. ETC: 2 days
+
+As a user I can use pwd to print the current working directory path. ETC: 2 days
+
+As a user I can use pushd to save the current working directory into a stack. ETC: 2 days
+
+As a user I can use popd to remove the top entry from the directory stack and
+cd into it. If none on the stack, give error message. ETC: 2 days
+
+As a user I can use history to print out required amount of recent commands
+used. There is an optional argument to and certain number of historic commands. ETC: 1 day
+
+As a user I can use cat to display the contents of a file. ETC: 1 day
+
+As a user I can use echo to overwrite or append into a file. ETC: 1 day
+
+As a user an incorrect command should tell me that it is not recognized and keep
+prompting me for another command. ETC: 0.5 days
+
+As a user I should be able to put any amount of whitespace between the parts
+of a command. ETC: 0.5 days
+
+As an uninformed user, I can use man CMD to get the documentation for CMD. ETC: 1 days
+
+As a user, I can use exit command to terminate the shell. ETC: 0.5 days
+
+As a developer, I can add new commands without jeopardizing the previous software. ETC: 3 days
+
+As a developer, I can easily understand the source code and design of the program. ETC: 3 days
+

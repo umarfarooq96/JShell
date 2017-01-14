@@ -1,0 +1,49 @@
+//Sprint 1 Backlog.  
+October 24 to October 29
+
+
+Product Backlog items to be implemented:
+a) As a user I can use mkdir to create directories.
+b) As an uninformed user, I can use man CMD to get the documentation for CMD.
+c) As a user I can use history to print out required amount of recent commands
+used. There is an optional argument to and certain number of historic commands.
+d) As a user I can use pwd to print the current working directory path.
+e) As a user I can use cd to change directories.
+f) As a user I can use cat to display the contents of a file.
+g) As a user I can use echo to overwrite or append into a file.
+
+
+Specific tasks to be accomplished:
+a-1. make mkdir class
+a-2. create Directory test class
+b-1. Make man command
+b-2. Test man command
+c-1. Make a singleton HistoryStorage class
+c-2. Make a command interface
+c-3. Write history command
+c-4. Test history command
+d-1. Make a class that writes to console
+d-2. Write the PWD command
+d-3. Test the PWD command
+e-1. make cd class
+e-2. make WorkingDirectory class
+f-1. Write a cat command
+f-2. Add cat logic to other classes
+f-3. Test the cat command
+g-1. Write a echo command
+g-2. Add echo logic to other classes
+g-3. Test the echo command
+
+These tasks are assigned as follows:
+
+User: Mohammad Umar Farooq
+c-1, c-2, c-3, c-4, d-1, d-2, d-3
+
+User: Mohammad Khan
+f-1, f-2, f-3, g-1, g-2, g-2
+
+User: Matthew Santos
+a-1, a-2, e-1, e-2
+
+User: Shahrzad Rahbarnia
+b-1, b-2

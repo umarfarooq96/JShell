@@ -1,0 +1,14 @@
+Class name: JShell
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Interpret a command and call upon it with given arguments
+
+
+Collaborators:
+- commandValidator
+- commandInterpreter
+- Command
+- error
+

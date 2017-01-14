@@ -1,0 +1,16 @@
+Class name: pushd
+Parent class (if any): Command
+Subclasses (if any):
+
+
+
+Responsibilities:
+
+- Save the current working directory into a stack
+
+
+Collaborators:
+
+- fileSystem
+- DirectoryStack
+- cd

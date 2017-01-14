@@ -1,0 +1,16 @@
+Class name: grep
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+- recursively apply a regex match to any files in a given directory
+- apply a regex match to a file and print the line that matches the regex
+
+Collaborators:
+- FileSystem
+- WorkingDirectory
+- File
+- Folder
+- Item
+- Pattern
+- Matcher

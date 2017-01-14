@@ -1,0 +1,10 @@
+Class name: Directory
+Parent class (if any): Item
+Subclasses (if any):
+
+Responsibilities:
+- Stores a file/folder path
+
+
+Collaborators:
+- File

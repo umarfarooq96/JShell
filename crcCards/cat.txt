@@ -1,0 +1,10 @@
+Class name: cat
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+- Display the contents of a file in the console
+
+Collaborators:
+- fileSystem
+- ConsoleWriter

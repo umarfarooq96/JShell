@@ -1,0 +1,12 @@
+What did I do last time?
+	- Made it possible to redirect output into a file
+		- Changes to JShell, Validator, Command, DataWriter, FileWriter, ConsoleWriter
+	- Thought of a new design so there are no problems with output
+	
+
+What do I plan to do now?
+	- Fix up FileWriter
+	- Being implementing commands
+	
+Am I blocked on anything?
+	- FileWriter may need to use echo so we need to fix echo fist.

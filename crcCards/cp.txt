@@ -1,0 +1,11 @@
+Class name: cp
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+- Create a deep copy to a new path. 
+- If the argument being copied is a directory, recursively copy. 
+
+Collaborators:
+- fileSystem
+- DataWriter

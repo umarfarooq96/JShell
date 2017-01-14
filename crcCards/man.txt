@@ -1,0 +1,16 @@
+Class name: man
+Parent class (if any): Command
+Subclasses (if any):
+
+
+
+Responsibilities:
+
+- Print documentation for CMD
+
+
+Collaborators:
+
+- fileSystem
+- Directory
+- ConsoleWriter

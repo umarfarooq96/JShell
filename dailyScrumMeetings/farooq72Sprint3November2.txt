@@ -1,0 +1,14 @@
+What did I do last time?
+	- Optimized JShell
+	- Optimized Validator
+	- Finished PWD
+	- Fixed test cases for Singleton.
+	
+
+What do I plan to do now?
+	- Make it easier to add commands. 
+	- Optimize, test, comment, javadocs. Polish up anything that needs.
+	- Add pushd, popd.
+	
+Am I blocked on anything?
+    - Need the rest of the commands to be finished.

@@ -1,0 +1,9 @@
+Class name: WorkingDirectory
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- stores the working directory as a string (absolute path)
+
+Collaborators:
+- Filesystem

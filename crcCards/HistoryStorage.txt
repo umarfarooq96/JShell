@@ -1,0 +1,9 @@
+Class name: HistoryStorage
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Store history of commands. Must be singleton!
+
+Collaborators:
+- 

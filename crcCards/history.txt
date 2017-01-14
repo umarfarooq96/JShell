@@ -1,0 +1,15 @@
+Class name: history
+Parent class (if any): Command
+Subclasses (if any):
+
+
+
+Responsibilities:
+
+- Print out a given number of recent commands to console
+
+
+Collaborators:
+
+- HistoryStorage
+- commandInterpreter

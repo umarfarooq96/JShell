@@ -1,0 +1,10 @@
+Class name: get
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+- Retrieve the file from a URL and add it to current working directory.
+
+Collaborators:
+- fileSystem
+- DataWriter

@@ -1,0 +1,15 @@
+Class name: writeConsole
+Parent class (if any): writeData
+Subclasses (if any):
+
+
+
+Responsibilities:
+
+- Write into the JShell console directly
+
+
+Collaborators:
+
+- JShell
+- writeData

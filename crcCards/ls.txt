@@ -1,0 +1,12 @@
+Class name: ls
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+- Output names of files in the current directory, each in a new line
+- If -R is present, recursively list all the subdirectories. 
+
+Collaborators:
+- writeData
+- fileSystem
+- ConsoleWriter

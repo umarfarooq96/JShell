@@ -1,0 +1,16 @@
+Class name: commandValidator
+Parent class (if any):
+
+Subclasses (if any): 
+
+
+Responsibilities:
+
+- Determine if a command is a valid A2 command
+
+
+Collaborators:
+
+- JShell
+- commandInterpreter
+- Error

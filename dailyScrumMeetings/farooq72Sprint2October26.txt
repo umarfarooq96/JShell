@@ -1,0 +1,14 @@
+What did I do last time?
+	- Made writeConsole
+    - Made command interface
+	- Started history command
+	
+
+What do I plan to do now?
+	- Make history only have one reference in the assignment
+    - Introduce command interface to group
+	- Start working on pwd class
+	
+Am I blocked on anything?
+    - Need a way to add previous commands into history
+	- Will probably depend on command interpreter

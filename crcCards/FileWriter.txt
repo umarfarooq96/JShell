@@ -1,0 +1,14 @@
+Class name: FileWriter
+Parent class (if any): DataWriter
+Subclasses (if any):
+
+
+
+Responsibilities:
+
+- Write into the JShell console directly
+
+
+Collaborators:
+
+- 

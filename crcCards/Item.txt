@@ -1,0 +1,9 @@
+Class name: Item
+Parent class (if any):
+Subclasses (if any): File, Directory
+
+Responsibilities:
+- stores the name of an Item
+- acts as a "control" for items and directories, gives a generic way to manage
+
+Collaborators:

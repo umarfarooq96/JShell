@@ -1,0 +1,12 @@
+What did I do last time?
+	- Finished my design for !number command
+	- Have an idea of how to test !number
+	
+
+What do I plan to do now?
+	- Finish !number command 
+	- Finish !number test cases
+	- Start polishing any bugs/inefficient code of the assignment
+	- Make proper use of exceptions.
+	
+Am I blocked on anything?

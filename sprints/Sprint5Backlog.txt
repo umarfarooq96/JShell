@@ -1,0 +1,40 @@
+//Sprint 1 Backlog.  
+November 15 to November 20
+
+
+Product Backlog items to be implemented:
+a. As a user I can use !number command to recall and execute a command associated with a history index.
+b. As a user I can write -R to the ls command to recursively list all subdirectories.
+c. As a user I can use the cat command to display contents of any number of files. Any invalid paths will be shown an error whilst the valid paths will still work.
+d. As a user I can use the grep command to search a file for any lines containing a specific string. 
+
+
+Specific tasks to be accomplished:
+a-1. Design number command
+a-2. Add into validator to check for !(integer) and make call to number command
+a-3. Test number command methods
+b-1. design and prototype
+b-2. add non-recursive functionality
+b-3. extend functionality to include recursively searching directories
+b-4. test, comment, javadocs 
+c-1. Design multi-file cat
+c-2. Create error outputs that do not save to file
+c-3. Comment and JavaDoc
+c-4. Testing
+d-1. design and prototype
+d-2. add non-recursive functionality
+d-3. extend functionality to include recursively searching directories
+d-4. test, comment, javadocs 
+
+These tasks are assigned as follows:
+
+User: Mohammad Umar Farooq
+a-1, a-2, a-3
+
+User: Mohammad Khan
+c-1, c-2, c-3, c-4
+
+User: Matthew Santos
+b-1, b-2, b-3, b-4, d-1, d-2, d-3, d-4
+
+User: Shahrzad Rahbarnia

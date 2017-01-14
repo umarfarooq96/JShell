@@ -1,0 +1,13 @@
+What did I do last time?
+	- Worked on JShell
+    - Worked on command validator and interpreter
+	- Worked on ConsoleWriter
+	- Finished history command
+	
+
+What do I plan to do now?
+	- Finish up PWD
+	- Add some test cases and make sure the other commands are ready to be added
+	
+Am I blocked on anything?
+    - Testing PWD required CD so we can change current working directory.

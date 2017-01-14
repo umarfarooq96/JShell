@@ -1,0 +1,11 @@
+Class name: fileSystem
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Give files and directories a unique path that lets you access them. 
+- For example, a folder 207assignment1 leads to crcCards which leads to the file fileSystem.txt.
+
+Collaborators:
+- File
+- Directory

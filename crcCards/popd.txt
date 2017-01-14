@@ -1,0 +1,19 @@
+Class name: popd
+Parent class (if any): Command
+Subclasses (if any):
+
+
+
+Responsibilities:
+
+- cd into the top entry of the directory stack
+
+
+Collaborators:
+
+- fileSystem
+- cd
+- pushd
+- DirectoryStack
+- DataWriter
+

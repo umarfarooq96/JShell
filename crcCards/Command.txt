@@ -1,0 +1,13 @@
+Class name: Command
+Parent class (if any):
+
+Subclasses (if any): exit, mkdir, cd, ls, pwd, pushd, popd, history, cat, echo, man, get
+
+
+Responsibilities:
+
+- Execute a command.
+
+
+Collaborators:
+

@@ -1,0 +1,10 @@
+Class name: echo
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+- Put a string into a file
+
+Collaborators:
+- writeData
+- ConsoleWriter

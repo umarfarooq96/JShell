@@ -1,0 +1,46 @@
+//Sprint 1 Backlog.  
+October 30 to November 5
+
+
+Product Backlog items to be implemented:
+a. As a user I can use ls to print the contents of the current directory. There is 
+an optional argument to ls a specific path.
+b. As a user I can use pushd to save the current working directory into a stack.
+c. As a user I can use popd to remove the top entry from the directory stack and
+cd into it. If none on the stack, give error message.
+d. As a developer, I can add new commands without jeopardizing the previous software.
+e. As a developer, I can easily understand the source code and design of the program.
+f. As a user, I can use exit command to terminate the shell.
+
+
+Specific tasks to be accomplished:
+a-1. Implement ls without parameter
+a-2. Implement with absolute path and relative path
+a-3. Make sure ls prints out in correct format
+b-1. Create a Directory Stack
+b-2. Make a pushd command using Directory Stack
+b-3. Use cd to cd into the given argument
+b-4. Test pushd
+c-1. Make a popd command using Directory Stack
+c-2. Use cd to cd into the popped directory
+c-3. Test popd
+d-1. JShell validation and Validator are more generic, interface is more specific
+e-1. Test cases
+e-2. Comments, java docs.
+e-3. Man command fully implemented
+f-1. Implement exit command
+f-2. Make exit test case
+
+These tasks are assigned as follows:
+
+User: Mohammad Umar Farooq
+b-1, b-2, b-3, b-4, c-1, c-2, c-3, f-1, f-2
+
+User: Mohammad Khan
+d-1.
+
+User: Matthew Santos
+a-1, a-2, a-3.
+
+User: Shahrzad Rahbarnia
+e-1, e-2, e-3

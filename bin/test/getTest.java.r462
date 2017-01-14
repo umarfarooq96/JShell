@@ -1,0 +1,29 @@
+package test;
+
+import static org.junit.Assert.*;
+
+import java.io.ByteArrayOutputStream;
+import java.io.PrintStream;
+import org.junit.Test;
+import commands.*;
+import filesystem.WorkingDirectory;
+
+public class getTest {
+  private final ByteArrayOutputStream outPrint = new ByteArrayOutputStream();
+
+  @Test
+  public void onEmptyArgument() {
+    System.setOut(new PrintStream(outPrint));
+
+    String[] empty = {};
+
+    get getObj = new get();
+
+    getObj.validate(empty, new WorkingDirectory());
+
+    assertEquals("No URL was given!\n", outPrint.toString());
+
+    System.setOut(null);
+  }
+
+}

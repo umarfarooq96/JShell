@@ -1,0 +1,15 @@
+Class name: mv
+Parent class (if any): Command
+Subclasses (if any):
+
+Responsibilities:
+- move a file or folder to a new location
+
+Collaborators:
+- FileSystem
+- WorkingDirectory
+- File
+- Folder
+- Item
+- DataWriter
+- WorkingDirectory

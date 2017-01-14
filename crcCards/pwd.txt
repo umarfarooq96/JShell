@@ -1,0 +1,18 @@
+Class name: pwd
+
+Parent class (if any): Command
+Subclasses (if any):
+
+
+
+Responsibilities:
+
+- Print the current working directory of the shell
+
+
+
+Collaborators:
+
+- fileSystem
+- DataWriter
+- WorkingDirectory

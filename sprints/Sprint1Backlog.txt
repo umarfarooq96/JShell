@@ -1,0 +1,36 @@
+//Sprint 1 Backlog.  
+October 18 to October 23
+
+
+Product Backlog items to be implemented:
+a. As a user I should be prompted for input by the command line. Pressing enter should not have any errors
+b. As a user an incorrent command should tell me that it is not recognized and keep prompting me for another command
+c. As a user I should be able to put any amount of whitespace between the parts of a command.
+d. As a user I can use exit command to terminate the shell once I am done with it
+e. As a developer/customer, I can easily understand the source code and design of the program.
+f. As a user I can access and modify the filesystem (using commands) through JShell.
+
+Specific tasks to be accomplished:
+a-1. JShell prompt using #/, enter does nothing.
+b-1. Create a command validator
+c-1. Trim, split and organize input.
+d-1. Notice exit input and terminate shell
+e-1. Create a class design incorporating polymoprhism, singleton, etc.
+e-2. Update CRC cards
+f-1. Make a file class
+f-2. Make a directory class
+f-3. Implement a file system that incorporates file and directory.
+
+These tasks are assigned as follows:
+
+User: Mohammad Umar Farooq
+Tasks: g-1, g-2, 
+
+User: Mohammad Khan
+Tasks: f-1, b-1
+
+User: Matthew Santos
+Tasks: f-2, f-3
+
+User: Shahrzad Rahbarnia
+Tasks: a-1, c-1, d-1

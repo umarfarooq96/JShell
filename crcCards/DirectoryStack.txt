@@ -1,0 +1,9 @@
+Class name: DirectoryStack
+Parent class (if any):
+Subclasses (if any):
+
+Responsibilities:
+- Store directories in a stack. Must be singleton!
+
+Collaborators:
+- 

@@ -1,0 +1,40 @@
+//Sprint 1 Backlog.  
+November 9 to November 15
+
+
+Product Backlog items to be implemented:
+a. As a user I can use >OUTFILE or >>OUTFILE on any command except exit to capture the output into a file of my choosing
+b. As a user I can use the get command to retrieve a file from a URL and add it to the current working directory.
+c. As a user I can use the mv command to move an item to a new path.
+d. As a user I can use the cp command to copy an item to a new path.
+
+Specific tasks to be accomplished:
+a-1. Think of new design for Command interface
+a-2. Implement new design into classes.
+a-3. Fix JShell to work with new design
+b-1. create get command class(with proper java doc and comments)
+b-2. implement Command interface for the new command
+b-3. edit validator to check if URL is valid
+b-4. create a method for fetching file 
+c-1. create mv command class
+c-2. create validation to check if new path is empty (available to be moved to)
+c-3. check for mv and adjust the WorkingDirectory if mv effects the working dir
+c-4. create comments, clean up code, test
+d-1. Create the cp command
+d-2. Edit validator and interpreter to work with cp
+d-3. Comment, and JavaDoc cp
+d-4. Test cp
+
+These tasks are assigned as follows:
+
+User: Mohammad Umar Farooq
+Tasks: a-1, a-2, a-3, b-2, b-3, b-4
+
+User: Mohammad Khan
+Tasks: d-1, d-2, d-3, d-4
+
+User: Matthew Santos
+Tasks: c-1, c-2, c-3, c-4
+
+User: Shahrzad Rahbarnia
+Tasks: b-1

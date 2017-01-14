@@ -1,0 +1,9 @@
+Class name: File
+Parent class (if any): Item
+Subclasses (if any):
+
+Responsibilities:
+- A collection of data that has a name
+
+Collaborators:
+- Directory

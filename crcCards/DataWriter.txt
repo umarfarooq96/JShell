@@ -1,0 +1,14 @@
+Class name: DataWriter
+Parent class (if any): 
+Subclasses (if any):
+
+
+
+Responsibilities:
+
+- Take in some data and write it
+
+
+Collaborators:
+
+- Command
